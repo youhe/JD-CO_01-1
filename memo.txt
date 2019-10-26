@@ -1,0 +1,22 @@
+# CO_01 - 1 は何をやっているか
+乱数を使って線を書いている
+
+
+# 乱数とは
+Math.random();
+0.0以上 ~ 1.0未満の値を返す
+
+http://fladdict.net/exp/random/
+http://fladdict.net/sketches/specimen/index.html
+
+
+# CO_01 - 1の実装方法
+
+
+# ビジュアルアートのおすすめ教材
+https://cocopon.me/zero-pde/
+https://cocopon.me/blog/series/interactive-coding/
+
+
+# おまけ
+https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage
